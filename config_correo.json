@@ -1,9 +1,0 @@
-{
-    "proveedor": "gmail",
-    "smtp_server": "smtp.gmail.com",
-    "smtp_port": 465,
-    "usar_ssl": true,
-    "remitente": "jjoanca@gmail.com",
-    "password": "qkvurtgrejialajn",
-    "nombre_remitente": "Laboratorio Universitario - Préstamos"
-}
