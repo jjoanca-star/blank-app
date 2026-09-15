@@ -1,0 +1,5 @@
+{
+    "duracion_prestamo_horas": 0.25,
+    "max_equipos_permitidos": 10,
+    "nombre_laboratorio": "Laboratorio Universitario - Préstamos"
+}
